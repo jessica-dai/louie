@@ -1,15 +1,13 @@
 # site
-title: Louie
-baseurl: "/louie"
-url: "http://lily.work"
+title: Jessica Dai
+baseurl: ""
+# url: "http://jessicadai.com"
 favicon: "/assets/sample/ico.png"
-g_analytics: UA-12345678-1
+# g_analytics: UA-12345678-1
 
 # bio
-header: Louie
-desc: >
-  A Jekyll theme (that looks awesome). Louie is free, lightweight,
-  and customizable as a blog, archive, or portfolio.
+header: jessica dai
+# desc: hello! I study computer science at brown.
 
 # posts
 date_format: "%Y"
